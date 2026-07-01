@@ -1,0 +1,8 @@
+# Console Colors
+colorama>=0.4.6
+
+# HTTP Requests / Webhooks
+requests>=2.32.0
+
+# Automatic UPnP Port Forwarding
+miniupnpc>=2.3.0
